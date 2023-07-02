@@ -1,3 +1,2 @@
-
-rootProject.name = "esp-v2"
+rootProject.name = "cors-bypass"
 

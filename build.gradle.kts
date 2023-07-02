@@ -25,7 +25,7 @@ kotlin {
 tasks.withType<Jar> {
     // Otherwise you'll get a "No main manifest attribute" error
     manifest {
-        attributes["Main-Class"] = "Espv2Kt"
+        attributes["Main-Class"] = "CorsBypassKt"
     }
 
     // To avoid the duplicate handling strategy error
